@@ -1,4 +1,7 @@
-#Element
-#Syntax
+Element
+
+Syntax
+
 How to Use It
+
 Example
