@@ -1,4 +1,4 @@
-WORKING WITH CONDITIONS # ReactNative-Lesson
+# ReactNative-WORKING WITH CONDITIONALS
 
 Repository about React-Native Lesson.
 As a team create this repository about a React-Native lesson. Teacher will give you the lesson's name.
