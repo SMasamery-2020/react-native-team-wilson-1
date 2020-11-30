@@ -1,7 +1,7 @@
-Element
+Element:
 
-Syntax
+Syntax:
 
-How to Use It
+How to Use It:
 
-Example
+Example:
