@@ -1,7 +1,10 @@
 Element:
+Conditionals: a feature of a programming language, which perform different computations or actions depending on whether a programmer-specified boolean condition evaluates to true or false.
 
 Syntax:
+if condition = true:
+    print(true)
 
-How to Use It:
+How to Use It: Use it to choose to do one action or another, also useful for checking and looping.
 
-Example:
+Example: An if then statement.
